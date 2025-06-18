@@ -1,4 +1,4 @@
-# Breast-Cancer
+# Breast Cancer Detection Using Deep Learning (Web App with Gradio)
 This project is a web-based image classification tool built to detect Breast Cancer using deep learning techniques. Powered by TensorFlow, Keras, and Gradio, the application enables users to upload breast histopathology or MRI images and get predictions indicating whether the tissue is Benign or Malignant.
 
 The system features a model switcher that cycles through multiple pre-trained models—Custom CNN, ResNet50, and MobileNetV2 on each prediction request, allowing users to observe and compare the performance of different architectures on the same input. Uploaded images are preprocessed by resizing to a standard input shape, normalizing pixel values, and converting to tensors compatible with the models.
