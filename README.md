@@ -5,9 +5,9 @@ The system features a model switcher that cycles through multiple pre-trained mo
 
 Once processed, the app displays:
 
-  *The predicted class (Cancerous/Non-Cancerous)
+  The predicted class (Cancerous/Non-Cancerous)
 
-  *The model name used for the prediction
+  The model name used for the prediction
 
 The Gradio interface is designed for ease of use and includes:
 
